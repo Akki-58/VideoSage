@@ -1,0 +1,75 @@
+# Audio / Video Acquisition
+yt-dlp>=2024.4.9
+pydub>=0.25.1
+ffmpeg-python>=0.2.0
+
+# Speech-to-Text (Whisper)
+# openai-whisper>=20231117
+# torch>=2.2.0
+# torchaudio>=2.2.0
+
+# youtube-transcript-api
+youtube-transcript-api==1.2.4
+
+# Speech-to-Text (Faster Whisper)
+faster-whisper>=1.1.0
+
+# Translation (Hindi → English)
+deep-translator>=1.11.4
+
+# Core LLM + LangChain Ecosystem
+langchain>=0.2.0,<0.4.0
+langchain-core>=0.2.0,<0.4.0
+langchain-community>=0.2.0,<0.4.0
+langchain-mistralai>=0.1.0
+mistralai>=0.4.0
+
+# RAG Pipeline
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+langchain-huggingface>=0.0.3
+huggingface-hub>=0.23.0
+
+# Token Counting / Text Utilities
+tiktoken>=0.7.0
+
+# Streamlit UI
+streamlit>=1.35.0
+streamlit-extras>=0.4.0
+watchdog>=4.0.0
+
+# PDF & TXT Export
+reportlab>=4.2.0
+fpdf2>=2.7.9
+
+# Web / HTTP Requests
+requests>=2.32.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Data Handling
+numpy>=1.26.0
+
+# Progress Bars / Monitoring
+tqdm>=4.66.0
+
+# Optional (if migrating to OpenAI later)
+# openai>=1.30.0
+
+# Optional Logging / Debugging
+rich>=13.7.0
+
+# Optional Retry / Robustness
+# tenacity>=8.2.0
+
+# Optional JSON Performance
+# orjson>=3.9.0
+
+# Optional Typing & Validation
+# pydantic>=2.5.0
+
+# Optional HTML Parsing
+# beautifulsoup4>=4.12.0
+# lxml>=5.0.0
+# html5lib>=1.1

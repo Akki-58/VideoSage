@@ -3,6 +3,7 @@ downloads
 .venv
 test.py
 Audio_Downloaded
+extractor.py
 test1.py
 test2.py
 transcript.txt
@@ -12,3 +13,4 @@ transcript3.txt
 transcript4.txt
 transcript5.txt
 transcript6.txt
+vector_db

@@ -1,0 +1,201 @@
+{
+  "videos": [
+    {
+      "video_id": "hDl2RqHet-o",
+      "source": "https://www.youtube.com/watch?v=hDl2RqHet-o",
+      "rtf": {
+        "audio_duration_sec": 553.26,
+        "extract_time_sec": 43.32,
+        "transcription_time_sec": 141.72,
+        "rtf": 0.2562
+      },
+      "faithfulness": {
+        "mean_faithfulness": 0.9579,
+        "per_question": [
+          {
+            "question": "What is the main topic discussed in the video?",
+            "faithfulness": 0.9286
+          },
+          {
+            "question": "What are the key points mentioned?",
+            "faithfulness": 0.9032
+          },
+          {
+            "question": "Were any decisions or conclusions reached?",
+            "faithfulness": 1.0
+          },
+          {
+            "question": "Are there any action items or next steps mentioned?",
+            "faithfulness": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "LoLdN9Q9hwU",
+      "source": "https://www.youtube.com/watch?v=LoLdN9Q9hwU",
+      "rtf": {
+        "audio_duration_sec": 787.09,
+        "extract_time_sec": 27.78,
+        "transcription_time_sec": 282.1,
+        "rtf": 0.3584
+      },
+      "faithfulness": {
+        "mean_faithfulness": 0.9381,
+        "per_question": [
+          {
+            "question": "What is the main topic discussed in the video?",
+            "faithfulness": 0.8
+          },
+          {
+            "question": "What are the key points mentioned?",
+            "faithfulness": 0.9524
+          },
+          {
+            "question": "Were any decisions or conclusions reached?",
+            "faithfulness": 1.0
+          },
+          {
+            "question": "Are there any action items or next steps mentioned?",
+            "faithfulness": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "8Ve5SAFPYZ8",
+      "source": "https://www.youtube.com/watch?v=8Ve5SAFPYZ8",
+      "rtf": {
+        "audio_duration_sec": 1441.45,
+        "extract_time_sec": 60.88,
+        "transcription_time_sec": 417.1,
+        "rtf": 0.2894
+      },
+      "faithfulness": {
+        "mean_faithfulness": 0.8382,
+        "per_question": [
+          {
+            "question": "What is the main topic discussed in the video?",
+            "faithfulness": 0.5625
+          },
+          {
+            "question": "What are the key points mentioned?",
+            "faithfulness": 0.9333
+          },
+          {
+            "question": "Were any decisions or conclusions reached?",
+            "faithfulness": 0.8571
+          },
+          {
+            "question": "Are there any action items or next steps mentioned?",
+            "faithfulness": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "JAWHcbT2BF8",
+      "source": "https://www.youtube.com/watch?v=JAWHcbT2BF8",
+      "rtf": {
+        "audio_duration_sec": 276.5,
+        "extract_time_sec": 16.58,
+        "transcription_time_sec": 144.19,
+        "rtf": 0.5215
+      },
+      "faithfulness": {
+        "mean_faithfulness": 0.7926,
+        "per_question": [
+          {
+            "question": "What is the main topic discussed in the video?",
+            "faithfulness": 1.0
+          },
+          {
+            "question": "What are the key points mentioned?",
+            "faithfulness": 0.7619
+          },
+          {
+            "question": "Were any decisions or conclusions reached?",
+            "faithfulness": 0.875
+          },
+          {
+            "question": "Are there any action items or next steps mentioned?",
+            "faithfulness": 0.5333
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "lUXy6Xp2j_I",
+      "source": "https://www.youtube.com/watch?v=lUXy6Xp2j_I",
+      "rtf": {
+        "audio_duration_sec": 1963.51,
+        "extract_time_sec": 67.01,
+        "transcription_time_sec": 650.35,
+        "rtf": 0.3312
+      },
+      "faithfulness": {
+        "mean_faithfulness": 0.8331,
+        "per_question": [
+          {
+            "question": "What is the main topic discussed in the video?",
+            "faithfulness": 0.7143
+          },
+          {
+            "question": "What are the key points mentioned?",
+            "faithfulness": 0.8
+          },
+          {
+            "question": "Were any decisions or conclusions reached?",
+            "faithfulness": 1.0
+          },
+          {
+            "question": "Are there any action items or next steps mentioned?",
+            "faithfulness": 0.8182
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "Chb5zUeBYcM",
+      "source": "https://www.youtube.com/watch?v=Chb5zUeBYcM",
+      "rtf": {
+        "audio_duration_sec": 211.18,
+        "extract_time_sec": 10.8,
+        "transcription_time_sec": 48.1,
+        "rtf": 0.2278
+      },
+      "faithfulness": {
+        "mean_faithfulness": 0.9886,
+        "per_question": [
+          {
+            "question": "What is the main topic discussed in the video?",
+            "faithfulness": 1.0
+          },
+          {
+            "question": "What are the key points mentioned?",
+            "faithfulness": 0.9545
+          },
+          {
+            "question": "Were any decisions or conclusions reached?",
+            "faithfulness": 1.0
+          },
+          {
+            "question": "Are there any action items or next steps mentioned?",
+            "faithfulness": 1.0
+          }
+        ]
+      }
+    }
+  ],
+  "aggregate": {
+    "num_videos": 6,
+    "rtf_mean": 0.3307,
+    "rtf_std": 0.1049,
+    "rtf_min": 0.2278,
+    "rtf_max": 0.5215,
+    "faithfulness_mean": 0.8914,
+    "faithfulness_std": 0.0801,
+    "faithfulness_min": 0.7926,
+    "faithfulness_max": 0.9886
+  }
+}
